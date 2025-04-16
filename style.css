@@ -1,0 +1,49 @@
+body {
+    background-color: #d2a04d;
+    font-family: Georgia, serif;
+  }
+  
+
+  header {
+    background-color: #8b4513;
+   width: 100%;
+    color: black;
+    font-size: 36px;
+    font-weight: 600;
+    text-align: center;
+    line-height: 150px;
+  }
+
+  nav {
+    background-color: #d2a04d;
+    text-align: center;
+  }
+  
+  nav a {
+    color: green;
+    text-decoration: none;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    line-height: 30px;
+    font-weight: 600;
+    
+  }
+  
+
+  main {
+    background-color: #d2a04d;
+  }
+  
+  main h2 {
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+  }
+  
+  main p {
+    color: #5c1f00;
+  }
+  main p:nth-of-type(3) {
+    color: black; 
+  }
